@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2aace06c-b3fd-43f1-864c-311991892a8f/resourceGroups/MyResourceGroupSEA/providers/Microsoft.Web/sites/myExpressAppKodeGoGrp8",
+    "appService.deploySubpath": "myExpressApp"
+}
